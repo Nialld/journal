@@ -1,0 +1,14 @@
+{
+    "require": {
+        "league/route": "^3.0",
+        "zendframework/zend-diactoros": "^1.7",
+        "guzzlehttp/guzzle": "~6.0",
+        "league/plates": "^3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6"
+    },
+    "autoload": {
+        "psr-0": {"Journal": "src/"}
+    }
+}
